@@ -1,0 +1,4 @@
+<!--pages/index/index.wxml-->
+<button type="default"  bindtap="searchButton" > searchByName </button>
+<button type="default"  bindtap="plantContentButton" > plantContent </button>
+<button type="default"  bindtap="keShuButton" > KeShu </button>

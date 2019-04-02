@@ -1,0 +1,2 @@
+<!--pages/plantContent/plantContent.wxml-->
+<text>{{screenData}}</text>

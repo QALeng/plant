@@ -1,0 +1,3 @@
+<!--pages/keShu/keShu.wxml-->
+<button type="default"  bindtap="searchByKeButton" > Ke </button>
+<button type="default"  bindtap="searchByShuButton" > Shu </button>
