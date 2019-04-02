@@ -1,3 +1,3 @@
 <!--pages/search/searchByName.wxml-->
 <input class="inputBox" placeholder='请输入植物名字' bindinput='searchInput' value="{{searchContent}}"></input>
-<button type="default"  bindtap="searchButton" > search </button>
+<button type="default"  bindtap="searchButton" > searchByName </button>
